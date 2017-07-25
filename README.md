@@ -17,5 +17,6 @@ either equal or with minimum of extra space to fill the requestedload.
 #### python verison 2.7
 python main.py 
 
-To run a doctest
+To run a doctest.
+
 python main.py -v
