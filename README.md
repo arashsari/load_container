@@ -15,5 +15,7 @@ Return would be a list of numbers in container that are
 either equal or with minimum of extra space to fill the requestedload.
 
 #### python verison 2.7
->>>python main.py 
->>>python main.py -v
+python main.py 
+
+To run a doctest
+python main.py -v
