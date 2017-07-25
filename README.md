@@ -14,6 +14,6 @@ This varibale filled by getting values from input command.
 Return would be a list of numbers in container that are
 either equal or with minimum of extra space to fill the requestedload.
 
-## python verison 2.7
->>>python knapsack_repeated.py 
->>>python knapsack_repeated.py -v
+#### python verison 2.7
+>>>python main.py 
+>>>python main.py -v
