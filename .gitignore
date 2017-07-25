@@ -1,0 +1,7 @@
+# Distribution / packaging
+.Python
+env/
+
+*.log
+
+*.idea
